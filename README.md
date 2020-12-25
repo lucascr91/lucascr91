@@ -2,4 +2,4 @@ Hi, I'm an economist. I'm mainly interested in cliometrics and its underpinnings
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucascr91)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascr91&hide=jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascr91&hide=Jupyter-Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
