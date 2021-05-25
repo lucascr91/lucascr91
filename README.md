@@ -1,4 +1,3 @@
-Hi, I'm an economist and software developer.
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucascr91)](https://github.com/anuraghazra/github-readme-stats)
 
