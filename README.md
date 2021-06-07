@@ -1,4 +1,6 @@
 
+Sou economista e desenvolvedor de software open-source. Atualmente, me divido entre meu trabalho e o desenvolvimento de ferramentas e pacotes que disponibilizo aqui no Github. Se o meu trabalho foi ou é útil para você de alguma forma, considere um apoio via PIX: https://nubank.com.br/pagar/2tpvc/o9EnyxUox3 . Assim, você estará contribuindo para que eu possa dedicar mais tempo ao desenvolvimento open-source.
+
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucascr91)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
