@@ -1,4 +1,4 @@
-Hi, I'm Lucas. I work as a Data Engineer at DP6 and try to contribute to open source projects in my spare time. I'm currently interest in Golang, Cloud computing, and DevOps.
+Hi, I'm Lucas. I work as a Data Engineer at DP6 and, in my spare time, I try to contribute to open source projects. I'm currently interest in Golang, Cloud computing, and DevOps.
 
 <table>
   <tr>
