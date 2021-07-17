@@ -1,3 +1,5 @@
+Hi, I'm Lucas. I work as a Data Engineer at DP6 and try to contribute to open source projects in my spare time.
+
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
