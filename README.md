@@ -6,7 +6,7 @@ Hi, I'm Lucas. I work as a Data Engineer at DP6 and, in my spare time, I try to 
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=lucascr91&theme=default&count_private=true&hide_border=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascr91&theme=default&hide=html,css,Makefile,Tex,jupyter%20notebook&layout=compact&hide_border=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascr91&theme=default&count_private=true&hide=html,css,Makefile,Tex,jupyter%20notebook&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
