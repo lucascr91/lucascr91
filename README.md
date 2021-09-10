@@ -1,5 +1,4 @@
-Hi, I'm Lucas. I work as a Data Engineer at DP6 and, in my spare time, I try to contribute to open source projects. I'm currently interest in Rust and Cloud computing.
-
+Hi, I'm Lucas. I work as a Data Engineer. I'm currently interest in Java, Android Development, and data collection from mobile applications.
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
