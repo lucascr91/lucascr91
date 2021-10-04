@@ -1,3 +1,5 @@
+**"To learn something and rehearse it constantly, is this indeed not a pleasure?"**
+
 Hi, I'm Lucas. I work as a Data Engineer. I'm currently interest in Java, Android Development, and data collection from mobile applications.
 <table>
   <tr>
