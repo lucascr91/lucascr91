@@ -1,12 +1,12 @@
 <table>
-  <tr>
+<tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=lucascr91&theme=graywhite&count_private=true&hide_border=true" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
+<!--     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascr91&theme=graywhite&count_private=true&hide=html,css,Makefile,Tex,jupyter%20notebook&layout=compact&hide_border=true" />
-    </td>
-  </tr>
+    </td> -->
+</tr>
 </table>
 
 <p align="center">
