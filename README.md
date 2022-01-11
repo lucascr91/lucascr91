@@ -1,4 +1,4 @@
-Check my [CV](https://raw.githubusercontent.com/lucascr91/portfolio/main/cv_cavalcanti_rodrigues.pdf)
+Avalaible for freelancer or part-time jobs. Interested? Check my [CV](https://raw.githubusercontent.com/lucascr91/portfolio/main/cv_cavalcanti_rodrigues.pdf)
 
 <table>
 <tr>
