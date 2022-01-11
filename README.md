@@ -1,3 +1,5 @@
+Check my [CV](https://raw.githubusercontent.com/lucascr91/portfolio/main/cv_cavalcanti_rodrigues.pdf)
+
 <table>
 <tr>
     <td align="center" style="padding=0;width=49%;">
