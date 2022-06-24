@@ -1,4 +1,4 @@
-"I don't know, it's kinda fun figuring shit out"
+"I don't know, it's kinda fun figuring shit out."
 
 Pryzbylewski, The Wire
 
