@@ -1,3 +1,3 @@
-- Entrepreneur
 - Data & ML Engineer
+- Entrepreneur
 - Co-founder @aloconcursos
