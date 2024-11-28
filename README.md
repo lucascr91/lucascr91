@@ -1,2 +1,2 @@
 - Data & ML Engineer
-- Co-founder @aloconcursos
+- Co-founder www.aloconcursos.com
