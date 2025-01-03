@@ -1,5 +1,5 @@
 - Data & ML Engineer
-- Co-founder [aloconcursos.com](www.aloconcursos.com)
+- Co-founder www.aloconcursos.com
 
 
 إِنَّ اللَّهَ مَعَ الصَّابِرِينَ
